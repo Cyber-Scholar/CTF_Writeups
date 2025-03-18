@@ -4,7 +4,7 @@
 
 Trapped in Plain Sight is a nice Misc appetizer that refreshes the challenger on Linux fundementals
 
-[Intro](Capture.png)
+[Intro](Capture.PNG)
 
 ## Step By Step Walk Through
 
