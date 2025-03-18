@@ -32,6 +32,8 @@ Step 1 got us useful info:
 Since only the `noaccess` user could read the flag and I couldn't do "horizontal privilege escalation" AKA login as 
 `noaccess`, I started to look for an executable that has a setuid of the `noaccess` user.
 
+---
+
 #### Thought Bubble: What is a SetUID?
 It is the user ID of the process => a setting that causes the file to execute with the owner's permissions
 
