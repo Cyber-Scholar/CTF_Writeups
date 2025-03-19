@@ -30,7 +30,8 @@ Step 1 got us useful info:
 2. Only the `noaccess` user can read the file
 
 Since only the `noaccess` user could read the flag and I couldn't login as 
-`noaccess`, I started to look for an executable that has a setuid of the `noaccess` user.
+`noaccess`, I started to look for an executable that has a setuid of the `noaccess` user as it is the most common
+horizontal priv. esc. technique.
 
 ---
 
