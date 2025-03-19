@@ -29,7 +29,7 @@ Step 1 got us useful info:
 1. There is a `flag.txt` file that we need to read
 2. Only the `noaccess` user can read the file
 
-Since only the `noaccess` user could read the flag and I couldn't do "horizontal privilege escalation" AKA login as 
+Since only the `noaccess` user could read the flag and I couldn't login as 
 `noaccess`, I started to look for an executable that has a setuid of the `noaccess` user.
 
 ---
